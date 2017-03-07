@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{07356344-8014-4753-8F7F-E3D1319F2EF6}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactNativeTests/Tests.cs">
+    <Files>
+      <File FileName="ReactNativeTests/Pages/Accounts.cs" Line="84" Column="4" />
+      <File FileName="ReactNativeTests/Tests/AccountsTest.cs" Line="36" Column="36" />
+      <File FileName="ReactNativeTests/AppInitializer.cs" Line="44" Column="18" />
+      <File FileName="ReactNativeTests/Tests.cs" Line="28" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ReactNativeTests" expanded="True">
+            <Node name="ReactNativeTests" expanded="True">
+              <Node name="ReactNativeTests" expanded="True">
+                <Node name="AccountsTest" expanded="True">
+                  <Node name="AccountsTest(Android)" expanded="True">
+                    <Node name="tapCreateWithEmail" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReactNativeTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

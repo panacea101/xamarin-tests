@@ -1,0 +1,7 @@
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/bin/Debug/nunit.framework.dll
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/bin/Debug/Xamarin.UITest.dll
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/bin/Debug/ReactNativeTests.dll.mdb
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/bin/Debug/ReactNativeTests.dll
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/obj/Debug/ReactNativeTests.dll
+/Users/kristina.watson/Projects/ReactNativeTests/ReactNativeTests/obj/Debug/ReactNativeTests.dll.mdb
